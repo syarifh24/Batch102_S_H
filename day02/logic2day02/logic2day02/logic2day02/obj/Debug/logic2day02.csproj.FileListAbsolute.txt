@@ -1,0 +1,6 @@
+D:\Boot Camp .Net\Batch102\syarif\day01\solution\Logicday02\logic3day03\logic2day02\logic2day02\logic2day02\bin\Debug\logic2day02.exe.config
+D:\Boot Camp .Net\Batch102\syarif\day01\solution\Logicday02\logic3day03\logic2day02\logic2day02\logic2day02\bin\Debug\logic2day02.exe
+D:\Boot Camp .Net\Batch102\syarif\day01\solution\Logicday02\logic3day03\logic2day02\logic2day02\logic2day02\bin\Debug\logic2day02.pdb
+D:\Boot Camp .Net\Batch102\syarif\day01\solution\Logicday02\logic3day03\logic2day02\logic2day02\logic2day02\obj\Debug\logic2day02.csprojResolveAssemblyReference.cache
+D:\Boot Camp .Net\Batch102\syarif\day01\solution\Logicday02\logic3day03\logic2day02\logic2day02\logic2day02\obj\Debug\logic2day02.exe
+D:\Boot Camp .Net\Batch102\syarif\day01\solution\Logicday02\logic3day03\logic2day02\logic2day02\logic2day02\obj\Debug\logic2day02.pdb
